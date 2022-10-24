@@ -1,0 +1,34 @@
+[
+    {
+      "id": "01",
+      "name": "Web Design"
+    },
+    {
+      "id": "02",
+      "name": "Graphic Design"
+    },
+    {
+      "id": "03",
+      "name": "Ui/Ux Design"
+    },
+    {
+      "id": "04",
+      "name": "Full Stack Development"
+    },
+    {
+      "id": "05",
+      "name": "React Native"
+    },
+    {
+      "id": "06",
+      "name": "Java"
+    },
+    {
+      "id": "07",
+      "name": "Python"
+    },
+    {
+      "id": "08",
+      "name": "All Courses"
+    }
+  ]
