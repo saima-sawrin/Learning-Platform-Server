@@ -1,34 +1,31 @@
 [
     {
       "id": "01",
-      "name": "Web Design"
+      "name": "IELTS Course by Munzereen"
     },
     {
       "id": "02",
-      "name": "Graphic Design"
+      "name": "Learn Facebook Marketing"
     },
     {
       "id": "03",
-      "name": "Ui/Ux Design"
+      "name": "Spoken English For Kids"
     },
     {
       "id": "04",
-      "name": "Full Stack Development"
+      "name": "BCS Prili Course"
     },
     {
       "id": "05",
-      "name": "React Native"
+      "name": "Bank Job Course"
     },
     {
       "id": "06",
-      "name": "Java"
+      "name": "Medical Admission Course"
     },
     {
       "id": "07",
-      "name": "Python"
-    },
-    {
-      "id": "08",
       "name": "All Courses"
     }
+    
   ]

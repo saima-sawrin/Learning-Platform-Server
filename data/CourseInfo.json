@@ -1,5 +1,14 @@
 [
-{"id":1,"name":"React","logo":"https://www.flaticon.com/free-icon/graphic-design_395690?term=graphic%20design&page=1&position=27&page=1&position=27&related_id=395690&origin=search","total":8},{"id":2,"name":"JavaScript","logo":"https://live.staticflickr.com/65535/52412638962_12e932256a_o.png","total":9},
-{"id":3,"name":"React","logo":"https://live.staticflickr.com/65535/52413593240_e00326e727_o.png","total":8},{"id":4,"name":"JavaScript","logo":"https://live.staticflickr.com/65535/52412638962_12e932256a_o.png","total":9},
-{"id":5,"name":"CSS","logo":"https://live.staticflickr.com/65535/52413665713_5977a693cb_o.png","total":8},{"id":6,"name":"Git","logo":"https://live.staticflickr.com/65535/52412639027_5692c15b3f_o.png","total":11}
+{"id":1,"name":"IELTS Course by Munzereen","logo":"https://cdn.10minuteschool.com/lg/images/thumbnails/ielts_course_by_munzereen_shahid_16_9.jpg","total":2500 , "buy":"Get Premium"},
+
+{"id":2,"name":"Learn Facebook Marketing","logo":"https://cdn.10minuteschool.com/lg/images/skills/Updated_Thumbnail_v3/fb_marketing_update2_thumbnail.jpg","total":2000 ,"buy":"Get Premium"},
+
+{"id":3,"name":"Spoken English For Kids","logo":"https://cdn.10minuteschool.com/lg/images/thumbnails/spoken_english_for_kids_by_ms_16_9.jpg","total":3000, "buy":"Get Premium"},
+
+
+{"id":4,"name":"BCS Prili Course","logo":"https://cdn.10minuteschool.com/lg/images/thumbnails/bcs_preli_course_16_9.jpg","total":2500, "buy":"Get Premium"},
+
+{"id":5,"name":"Bank Job Course","logo":"https://cdn.10minuteschool.com/lg/images/skills/Updated_Thumbnail_v3/BankJ.jpg","total":2000, "buy":"Get Premium"},
+
+{"id":6,"name":"Medical Admission Course","logo":"https://cdn.10minuteschool.com/images/Admission/Thumbnails%20V-2/adm_hsc22_med.jpg","total":3000, "buy":"Get Premium"}
 ]
